@@ -1,0 +1,23 @@
+div.user {
+    background: white;
+    border: 2px solid #FC9D9A;
+    padding: 15px;
+}
+
+div.user h2 {
+    margin-top: 0;
+}
+
+div.user h2,
+div.user strong {
+    color: #FE4365
+}
+
+div.user dt {
+    font-weight: bold;
+    color: #FC9D9A
+}
+
+div.user dd {
+    margin: 0;
+}
